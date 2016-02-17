@@ -1,0 +1,46 @@
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe.config
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.pdb
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csprojResolveAssemblyReference.cache
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form1.resources
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Properties.Resources.resources
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.GenerateResource.Cache
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.exe
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.pdb
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.ResolveComReference.cache
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\DynamicJson.dll
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.dll
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.dll
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.xml
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.xml
+d:\users\ben\documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form2.resources
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe.config
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.ResolveComReference.cache
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.exe
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.pdb
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.pdb
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.dll
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.xml
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csprojResolveAssemblyReference.cache
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form1.resources
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form2.resources
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Properties.Resources.resources
+E:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.GenerateResource.Cache
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe.config
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.ResolveComReference.cache
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.exe
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.pdb
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.exe
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\League of Info.pdb
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.dll
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.dll
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\Newtonsoft.Json.xml
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\bin\Debug\System.Json.xml
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csprojResolveAssemblyReference.cache
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form1.resources
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Form2.resources
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League_of_Info.Properties.Resources.resources
+F:\Users\Ben\Documents\visual studio 2013\Projects\League of Info\League of Info\obj\Debug\League of Info.csproj.GenerateResource.Cache
